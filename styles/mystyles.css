@@ -1,0 +1,23 @@
+.main {
+    font-family: 'Times New Roman', Times, serif;
+}
+.bold {
+    font-weight: bold;
+}
+.border {
+    border: solid white 2px;
+}
+.italic {
+    font-style: italic;
+}
+
+.link {
+    color: blue
+}
+.black {
+    text: black;
+}
+
+.center {
+    align-content: center;
+}

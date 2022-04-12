@@ -1,0 +1,36 @@
+body {
+    background-color: #CCCCCC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid black 1px;
+    font-weight: bold;
+}
+
+.mainbody {
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    bottom: 110px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    position: fixed;
+    font-style: italic;
+}
